@@ -1,7 +1,7 @@
+<h1 align="center">Hi 👋, I'm Ashmit</h1>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Ashmit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmit0073&label=Profile%20views&color=0e75b6&style=flat" alt="ashmit0073" /> </p>
@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashmit_mala" target="blank"><img src="https://img.shields.io/twitter/follow/ashmit_mala?logo=twitter&style=for-the-badge" alt="ashmit_mala" /></a> </p>
 
-- 🔭 I’m currently working on **Education Consultancy Project**
+- 🔭 I’m currently working on **Car Rental APP**
 
-- 🌱 I’m currently learning **Next.js, Node.js, Express.js**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Education Consultancy Project**
+- 👯 I’m looking to collaborate on **Car Rental APP**
 
-- 💬 Ask me about **React.js, Data Structures, SQL, Algorithms, Java, OOPS, Databses, JavaScript**
+- 💬 Ask me about **Data Structures,Algorithms,  SQL, Java, OOPS, Databses**
 
 - 📫 How to reach me **ashmitmala002@gmail.com**
 
